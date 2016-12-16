@@ -1,4 +1,4 @@
-# encoding: Shift_JIS
+# kanjoh
 
 puts "合計は？"
 goukei = gets.to_i
